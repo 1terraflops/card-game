@@ -30,8 +30,8 @@ In memetics you can:
 The project was developed in 2 weeks by a team of 3 people:
 
 * 1terraflops (me) - backend
-* Butterfly2112 - frontend
-* DianaMalashta - assets
+* [Butterfly2112](https://github.com/Butterfly2112) - frontend
+* [DianaMalashta](https://github.com/DianaMalashta) - assets
 
 ## 🚀 Getting started
 These instructions will help you configure and run this project to run it on your machine.
@@ -75,4 +75,4 @@ Open the second tab in a private view, or in a different browser (for a correct 
 
 **Preview:**
 
-<img width="1329" alt="image" src="https://github.com/user-attachments/assets/7428b91f-2306-403d-81b5-cc80a20852b1" />
+<img width="1329" alt="image" src="https://github.com/user-attachments/assets/ddab1977-6141-418d-9746-027b01f804ec" />
