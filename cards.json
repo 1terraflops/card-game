@@ -1,0 +1,192 @@
+[
+  {
+    "name": "😡😡😡",
+    "atk": 4,
+    "def": 1,
+    "cost": 2
+  },
+  {
+    "name": "Abduction!",
+    "atk": 3,
+    "def": 0,
+    "ability": 5,
+    "cost": 1
+  },
+  {
+    "name": "That’s suspicious",
+    "atk": 1,
+    "def": 2,
+    "cost": 1
+  },
+  {
+    "name": "Bombastic side eye",
+    "atk": 1,
+    "def": 4,
+    "cost": 2
+  },
+  {
+    "name": "eepy car",
+    "atk": 1,
+    "def": 1,
+    "cost": 1
+  },
+  {
+    "name": "Me and Pookie🩷",
+    "atk": 2,
+    "def": 2,
+    "heal": 2,
+    "cost": 3
+  },
+  {
+    "name": "HAHAHFIUSEJHIOHDS",
+    "atk": 7,
+    "def": 0,
+    "cost": 3
+  },
+  {
+    "name": "Sniffer",
+    "atk": 2,
+    "def": 2,
+    "ability": "steal",
+    "cost": 2
+  },
+  {
+    "name": "Absolute Cinema",
+    "atk": 0,
+    "def": 3,
+    "cost": 1
+  },
+  {
+    "name": "I’m just a boy🧢",
+    "atk": 2,
+    "def": 1,
+    "cost": 1
+  },
+  {
+    "name": "Good Boy",
+    "atk": 4,
+    "def": 3,
+    "cost": 3
+  },
+  {
+    "name": "What Are You Looking At?",
+    "atk": 5,
+    "def": 1,
+    "cost": 3
+  },
+  {
+    "name": "Problem Solved",
+    "atk": 4,
+    "def": 1,
+    "cost": 2
+  },
+  {
+    "name": "Let Him Cook",
+    "atk": 3,
+    "def": 2,
+    "cost": 2
+  },
+  {
+    "name": "He Knows What You Did",
+    "atk": 1,
+    "def": 3,
+    "cost": 2
+  },
+  {
+    "name": "Smoll🤏",
+    "atk": 1,
+    "def": 1,
+    "heal": 1,
+    "cost": 1
+  },
+  {
+    "name": "Side-Eye",
+    "atk": 2,
+    "def": 1,
+    "cost": 1
+  },
+  {
+    "name": "Nerd",
+    "atk": 1,
+    "def": 2,
+    "ability": "swap",
+    "cost": 1
+  },
+  {
+    "name": "Loading...",
+    "atk": 1,
+    "def": 1,
+    "ability": "swap",
+    "cost": 1
+  },
+  {
+    "name": "Hehe",
+    "atk": 1,
+    "def": 2,
+    "ability": "steal",
+    "cost": 1
+  },
+  {
+    "name": "Night furry",
+    "atk": 7,
+    "def": 0,
+    "cost": 3
+  },
+  {
+    "name": "Meowgiсian",
+    "atk": 3,
+    "def": 1,
+    "cost": 2
+  },
+  {
+    "name": "The light of hope",
+    "atk": 0,
+    "def": 8,
+    "cost": 3
+  },
+  {
+    "name": "Wewewe",
+    "atk": 1,
+    "def": 1,
+    "heal": 1,
+    "cost": 1
+  },
+  {
+    "name": "Espionage Agent",
+    "atk": 1,
+    "def": 2,
+    "ability": "steal",
+    "cost": 1
+  },
+  {
+    "name": "All in",
+    "atk": 3,
+    "def": 2,
+    "cost": 2
+  },
+  {
+    "name": "True pain",
+    "atk": 4,
+    "def": 1,
+    "cost": 2
+  },
+  {
+    "name": "Wait… What?",
+    "atk": 1,
+    "def": 1,
+    "ability": "swap",
+    "cost": 1
+  },
+  {
+    "name": "Zoning Out",
+    "atk": 0,
+    "def": 3,
+    "cost": 1
+  },
+  {
+    "name": "How dare you?",
+    "atk": 2,
+    "def": 1,
+    "cost": 1
+  }
+]
